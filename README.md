@@ -2,6 +2,8 @@
 
 dyv is a simple and efficient desktop application for downloading videos from YouTube. With its clean and intuitive interface, you can easily download your favorite YouTube content for offline viewing.
 
+**Note:** Make sure [FFmpeg](https://www.ffmpeg.org/download.html) is installed and added to your path, on your system. If you don't know how to install FFmpeg, use this [YouTube Video](https://www.youtube.com/watch?v=orY6lzJbl4w) to help.
+
 # Installation
 
 1. **Go to Releases**: Visit the [Releases page](https://github.com/your-username/dyv/releases) of the dyv repository.

@@ -8,14 +8,14 @@
 #include <QPushButton>
 #include <QLineEdit>
 #include <QComboBox>
-#include <QPalette>
-#include <QColor>
+#include <QProgressBar>
+#include <QProcess>
+#include <QSettings>
+#include <QMessageBox>
 #include <QFileDialog>
 #include <QStandardPaths>
-#include <QSettings>
-#include <QProcess>
-#include <QMessageBox>
-#include <QProgressBar>
+#include <QPalette>
+#include <QColor>
 
 QT_BEGIN_NAMESPACE namespace Ui {
     class MainWindow;
